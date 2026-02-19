@@ -50,3 +50,9 @@ li {
     cursor: pointer;
     font-weight: bold;
 }
+
+.delete-btn {
+    color: red;
+    cursor: pointer;
+    font-weight: bold;
+}
